@@ -1,0 +1,20 @@
+{application, cloudproxy,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { cloudproxy_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    inets,
+    lager,
+    rfc4627_jsonrpc,
+    mochiweb
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.

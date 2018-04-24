@@ -1,0 +1,476 @@
+2018-04-20 14:30:20 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.162.0>
+    registered_name: []
+    exception exit: {{bad_return,{{cloudproxy_app,start,[normal,[]]},{'EXIT',{undef,[{connector_sup,start_link,[],[]},{cloudproxy_app,start,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,19}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,273}]}]}}}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.161.0>]
+    messages: [{'EXIT',<0.163.0>,normal}]
+    links: [<0.161.0>,<0.6.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 171
+  neighbours:
+2018-04-20 14:34:01 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.162.0>
+    registered_name: []
+    exception exit: {{bad_return,{{cloudproxy_app,start,[normal,[]]},{'EXIT',{undef,[{connector_sup,start_link,[],[]},{cloudproxy_app,start,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,19}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,273}]}]}}}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.161.0>]
+    messages: [{'EXIT',<0.163.0>,normal}]
+    links: [<0.161.0>,<0.6.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 171
+  neighbours:
+2018-04-20 14:39:54 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.162.0>
+    registered_name: []
+    exception exit: {{bad_return,{{cloudproxy_app,start,[normal,[]]},{'EXIT',{undef,[{connector_sup,start_link,[],[]},{cloudproxy_app,start,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,19}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,273}]}]}}}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.161.0>]
+    messages: [{'EXIT',<0.163.0>,normal}]
+    links: [<0.161.0>,<0.6.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 171
+  neighbours:
+2018-04-20 15:35:50 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.1978.0>
+    registered_name: []
+    exception error: {undef,[{help,url,[],[]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49249>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201535239E46396D4B42B48D3BCA4207BB9E23&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=08a944fd1fdde4ad5ca58f1ecf790312&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1791
+  neighbours:
+2018-04-20 15:40:39 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.374.0>
+    registered_name: []
+    exception error: {undef,[{help,url,[],[]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49246>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201540609DCC9D5DC944DCB4F28A1F4AB7536A&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=9fff93f6bd4fa8728525838814f6f661&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1791
+  neighbours:
+2018-04-20 15:41:28 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.774.0>
+    registered_name: []
+    exception error: {undef,[{help,url,[],[]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49407>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201541D4D38E26B1AA47C59749B848C7896406&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=6b01b1f87a951983c06b25b84c8be454&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1778
+  neighbours:
+2018-04-20 15:42:18 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.1174.0>
+    registered_name: []
+    exception error: {{badmatch,["ipcid=180327000001","order_no=1804201542F68BE5F0577A49E18FEEDD498F44F983","partner=6ccpug","objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D","sign=cb034b15bca5737a4e5ebb91de8995c5"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,24}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49408>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201542F68BE5F0577A49E18FEEDD498F44F983&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=cb034b15bca5737a4e5ebb91de8995c5&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 2252
+  neighbours:
+2018-04-20 15:43:37 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.406.0>
+    registered_name: []
+    exception error: {{badmatch,["ipcid=180327000001","order_no=18042015435993B09D6FE94C84BBA5DE5A91C8783C","partner=6ccpug","objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D","sign=eec600ccfb181e233b69e3191fbc8713"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,24}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49246>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042015435993B09D6FE94C84BBA5DE5A91C8783C&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=eec600ccfb181e233b69e3191fbc8713&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 2277
+  neighbours:
+2018-04-20 17:05:38 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.486.0>
+    registered_name: []
+    exception error: bad argument: [{erlang,binary_to_list,[undefined],[]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,41}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49246>]
+    dictionary: [{mochiweb_request_body,undefined}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 1213
+  neighbours:
+2018-04-20 17:18:54 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.1063.0>
+    registered_name: []
+    exception error: {{badmatch,["middleware"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,20}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49735>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1482
+  neighbours:
+2018-04-20 17:18:58 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.1094.0>
+    registered_name: []
+    exception error: {{badmatch,["middleware"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,20}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49736>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1482
+  neighbours:
+2018-04-20 17:20:18 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.390.0>
+    registered_name: []
+    exception error: {{badmatch,["middleware"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,20}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49246>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1507
+  neighbours:
+2018-04-20 17:22:08 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.358.0>
+    registered_name: []
+    exception error: {{badmatch,["middleware"]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,20}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49246>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 1507
+  neighbours:
+2018-04-20 17:54:38 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.342.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,29}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49250>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042017545CEC88FDC9CA461D925939BBB59EFF88&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=19a5cbf171c602b78a2117154f6c9891&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 10647
+  neighbours:
+2018-04-20 17:55:55 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.341.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49250>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201755460D792386C34612A71AF87C6CCF9A0C&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=dfc958d3d2fa6fecfa0b216abd7db564&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 10646
+  neighbours:
+2018-04-20 17:57:32 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.390.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49250>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042017577C1C59399FBF48B5B83BCB19C3A184DD&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=5da6019741a282934d39345c7a219773&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 2439
+  neighbours:
+2018-04-20 18:06:07 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.4507.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49712>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042018064B6DE753ABCF44AD9A9805FFF60EB861&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=01fd2520a7ed7cab52354c065a9b293b&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 2398
+  neighbours:
+2018-04-20 18:06:09 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.4524.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,28}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.165.0>]
+    messages: []
+    links: [<0.273.0>,#Port<0.49713>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804201806C211728A759D4D26A83BE27AF906D55B&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=3953c120df4e68120c20259728ece015&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 2398
+  neighbours:
+2018-04-23 10:00:09 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.162.0>
+    registered_name: []
+    exception exit: {{bad_return,{{cloudproxy_app,start,[normal,[]]},{'EXIT',{{badmatch,{error,{{'EXIT',{undef,[{connector_event_ipc_login_log,add_handler,[],[]},{cloudproxy_event_server,add_handler,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,28}]},{cloudproxy_event_server,start_link,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,23}]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,handle_start_child,2,[{file,"supervisor.erl"},{line,717}]},{supervisor,handle_call,3,[{file,"supervisor.erl"},{line,415}]},{gen_server,try_handle_call,4,[{file,"gen_server.erl"},{line,629}]},{gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,661}]}]}},{child,undefined,cloudproxy_event_server,{cloudproxy_event_server,start_link,[]},permanent,10000,worker,[cloudproxy_event_server]}}}},[{app_util,start_child,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/app_util.erl"},{line,39}]},{cloudproxy_app,start_server,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,56}]},{cloudproxy_app,'-start_servers/1-lc$^0/1-0-',2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,48}]},{cloudproxy_app,'-start_servers/1-lc$^0/1-0-',2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,48}]},{cloudproxy_app,start,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_app.erl"},{line,22}]},{application_master,start_it_old,4,[{file,"application_master.erl"},{line,273}]}]}}}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.161.0>]
+    messages: [{'EXIT',<0.163.0>,normal}]
+    links: [<0.161.0>,<0.6.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 268
+  neighbours:
+2018-04-23 10:57:37 =ERROR REPORT====
+** gen_event handler cloudproxy_event_ipc_log crashed.
+** Was installed in cloudproxy_event_server
+** Last event was: {ipc_login_log,"180327000001","10.168.1.155 fa071302fa01180327000001faff"}
+** When handler state == {state}
+** Reason == {'function not exported',[{log_util,get_gateway_log_file,[{{2018,4,23},{10,57,37}}],[]},{cloudproxy_event_ipc_log,handle_event,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_ipc_log.erl"},{line,50}]},{gen_event,server_update,4,[{file,"gen_event.erl"},{line,538}]},{gen_event,server_notify,4,[{file,"gen_event.erl"},{line,520}]},{gen_event,server_notify,4,[{file,"gen_event.erl"},{line,522}]},{gen_event,handle_msg,5,[{file,"gen_event.erl"},{line,261}]},{proc_lib,wake_up,3,[{file,"proc_lib.erl"},{line,250}]}]}
+2018-04-23 11:02:12 =ERROR REPORT====
+** gen_event handler cloudproxy_event_ipc_log crashed.
+** Was installed in cloudproxy_event_server
+** Last event was: {ipc_login_log,"180327000001","10.168.1.155 fa071302fa01180327000001faff"}
+** When handler state == {state}
+** Reason == {'function not exported',[{help,datetime_string,[{{2018,4,23},{11,2,12}}],[]},{log_util,gen_content,4,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/log_util.erl"},{line,36}]},{cloudproxy_event_ipc_log,handle_event,2,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_ipc_log.erl"},{line,52}]},{gen_event,server_update,4,[{file,"gen_event.erl"},{line,538}]},{gen_event,server_notify,4,[{file,"gen_event.erl"},{line,520}]},{gen_event,server_notify,4,[{file,"gen_event.erl"},{line,522}]},{gen_event,handle_msg,5,[{file,"gen_event.erl"},{line,261}]},{proc_lib,wake_up,3,[{file,"proc_lib.erl"},{line,250}]}]}
+2018-04-23 15:22:55 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.422.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,33}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231522BA1DEDA130684C2284BEA7C54BDD489B&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=5bf6e89ffd6ccc5ad56aa2bfa463aee8&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 3093
+  neighbours:
+2018-04-23 16:09:48 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.358.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,35}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042316096838EEDC1014409194F53778C445C33E&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=eeeaca6f45518cdc5a46cf933757c693&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 10102
+  neighbours:
+2018-04-23 16:22:02 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.358.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{help_handle,parse_list,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/help_handle.erl"},{line,28}]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,30}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042316220282128F7381473AB9F0CF8B82A948CE&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=40a293cd7599d0668c3b169817df0fc2&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 3173
+  neighbours:
+2018-04-23 16:25:32 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.358.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,37}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231625D5A18BA6DE204118AC5418F78E370365&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=ed5563bdb1d2951f55231fe5cb37630f&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 10102
+  neighbours:
+2018-04-23 16:25:37 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.391.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,37}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49754>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=18042316250BD190438C2646EC8D8A1E565478419E&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=494105fa2ecf11909278cd06b2c6109a&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 8741
+  neighbours:
+2018-04-23 16:39:10 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.326.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{help_handle,parse_list,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/help_handle.erl"},{line,28}]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,36}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231639F722F7A450EC46F999D25A04C24D392E&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=7e18077404b64221f3b4226c1528bb3d&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 3938
+  neighbours:
+2018-04-23 16:40:14 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.326.0>
+    registered_name: []
+    exception error: {{badmatch,{error,syntax_error}},[{help_handle,parse_list,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/help_handle.erl"},{line,28}]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,36}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231640E37F5614081D48418A65E9CD5F998FC4&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=448e6aa23a532773f7f239765940b871&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 3956
+  neighbours:
+2018-04-23 16:41:54 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.326.0>
+    registered_name: []
+    exception error: bad argument: [{jsx_decoder,value,4,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/jsx/src/jsx_decoder.erl"},{line,234}]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,36}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49279>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231641D1435B14203D4004918A7B4A64D7D852&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=f4f81430e71e6415fceef6247af33fac&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 3679
+  neighbours:
+2018-04-23 16:43:00 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.503.0>
+    registered_name: []
+    exception error: bad argument: [{jsx_decoder,value,4,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/jsx/src/jsx_decoder.erl"},{line,234}]},{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,36}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49280>]
+    dictionary: [{mochiweb_request_body,<<"ipcid=180327000001&order_no=1804231643ACF457BE67804362A36ED41D6F0C75DF&partner=6ccpug&objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D&sign=0537091664a9f7efa1ff3593833cac54&">>},{mochiweb_request_recv,true}]
+    trap_exit: false
+    status: running
+    heap_size: 6772
+    stack_size: 27
+    reductions: 3607
+  neighbours:
+2018-04-23 17:43:00 =CRASH REPORT====
+  crasher:
+    initial call: mochiweb_acceptor:init/4
+    pid: <0.7582.0>
+    registered_name: []
+    exception error: {{badmatch,[]},[{cloudproxy_http_server,dispatch,1,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_http_server.erl"},{line,20}]},{mochiweb_http,headers,6,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/mochiweb/src/mochiweb_http.erl"},{line,124}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [mochiweb_http,<0.163.0>]
+    messages: []
+    links: [<0.271.0>,#Port<0.49567>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 1317
+  neighbours:

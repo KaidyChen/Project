@@ -1,0 +1,7 @@
+-name 'cloudproxy@127.0.0.1'
+
+-setcookie cloudproxysecretcookie
+
++K true
+
+-smp true

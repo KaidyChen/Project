@@ -1,0 +1,481 @@
+2018-04-20 14:30:20.570 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:30:20.575 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:30:20.576 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:30:20.576 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:30:20.584 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:30:20.599 [error] <0.162.0> CRASH REPORT Process <0.162.0> with 0 neighbours exited with reason: call to undefined function connector_sup:start_link() in application_master:init/4 line 134
+2018-04-20 14:30:20.660 [info] <0.6.0> Application cloudproxy exited with reason: call to undefined function connector_sup:start_link()
+2018-04-20 14:30:20.660 [info] <0.6.0> Application rfc4627_jsonrpc exited with reason: stopped
+2018-04-20 14:34:01.305 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:34:01.307 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:34:01.309 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:34:01.309 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:34:01.316 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:34:01.328 [error] <0.162.0> CRASH REPORT Process <0.162.0> with 0 neighbours exited with reason: call to undefined function connector_sup:start_link() in application_master:init/4 line 134
+2018-04-20 14:34:01.329 [info] <0.6.0> Application cloudproxy exited with reason: call to undefined function connector_sup:start_link()
+2018-04-20 14:34:01.396 [info] <0.6.0> Application rfc4627_jsonrpc exited with reason: stopped
+2018-04-20 14:39:54.374 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:39:54.377 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:39:54.378 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:39:54.378 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:39:54.386 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:39:54.399 [error] <0.162.0> CRASH REPORT Process <0.162.0> with 0 neighbours exited with reason: call to undefined function connector_sup:start_link() in application_master:init/4 line 134
+2018-04-20 14:39:54.399 [info] <0.6.0> Application cloudproxy exited with reason: call to undefined function connector_sup:start_link()
+2018-04-20 14:39:54.400 [info] <0.6.0> Application rfc4627_jsonrpc exited with reason: stopped
+2018-04-20 14:52:49.059 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:52:49.062 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:52:49.063 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:52:49.063 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:52:49.071 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:55:07.149 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:55:07.151 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:55:07.153 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:55:07.153 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:55:07.160 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:56:49.120 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:56:49.123 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:56:49.124 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:56:49.124 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:56:49.132 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 14:58:11.096 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 14:58:11.099 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 14:58:11.100 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 14:58:11.100 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 14:58:11.108 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 15:03:03.973 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-20 15:03:03.980 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-20 15:03:03.980 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-20 15:03:03.980 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-20 15:03:03.988 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-20 15:16:02.847 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:16:02.849 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:16:02.851 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:16:02.851 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:16:02.859 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:20:31.588 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:20:31.591 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:20:31.592 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:20:31.592 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:20:31.600 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:22:23.310 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:22:23.313 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:22:23.314 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:22:23.314 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:22:23.322 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:24:43.519 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:24:43.521 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:24:43.523 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:24:43.523 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:24:43.531 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:25:58.704 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:25:58.707 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:25:58.708 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:25:58.708 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:25:58.716 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:32:17.718 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:32:17.720 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:32:17.721 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:32:17.721 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:32:17.729 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:35:50.093 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 15:35:50.093 [error] <0.1978.0> CRASH REPORT Process <0.1978.0> with 0 neighbours crashed with reason: call to undefined function help:url()
+2018-04-20 15:40:25.500 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:40:25.503 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:40:25.504 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:40:25.504 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:40:25.512 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:40:39.195 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 15:40:39.195 [error] <0.374.0> CRASH REPORT Process <0.374.0> with 0 neighbours crashed with reason: call to undefined function help:url()
+2018-04-20 15:41:28.625 [error] <0.774.0> CRASH REPORT Process <0.774.0> with 0 neighbours crashed with reason: call to undefined function help:url()
+2018-04-20 15:42:18.625 [error] <0.1174.0> CRASH REPORT Process <0.1174.0> with 0 neighbours crashed with reason: no match of right hand value ["ipcid=180327000001","order_no=1804201542F68BE5F0577A49E18FEEDD498F44F983","partner=6ccpug","objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D","sign=cb034b15bca5737a4e5ebb91de8995c5"] in cloudproxy_http_server:dispatch/1 line 24
+2018-04-20 15:43:21.297 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:43:21.300 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:43:21.301 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:43:21.301 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:43:21.309 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:43:37.682 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 15:43:37.682 [error] <0.406.0> CRASH REPORT Process <0.406.0> with 0 neighbours crashed with reason: no match of right hand value ["ipcid=180327000001","order_no=18042015435993B09D6FE94C84BBA5DE5A91C8783C","partner=6ccpug","objs=%5B%7B%22eqpt%5Ftype%22%3A%220a0001amfm%22%2C%22eqpt%5Fid%5Fcode%22%3A%22201712140001%22%2C%22eqpt%5Fpwd%22%3A%220DD1F70B5F3A0B95C22126872845114A%22%2C%22resdatatype%22%3A%22%22%2C%22cmd%5Ftype%22%3A%22dsj%22%2C%22cmd%5Fid%22%3A%22zhygzdn%22%2C%22cmd%5Fdata%22%3A%22%22%7D%5D","sign=eec600ccfb181e233b69e3191fbc8713"] in cloudproxy_http_server:dispatch/1 line 24
+2018-04-20 15:45:07.499 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:45:07.506 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:45:07.506 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:45:07.507 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 15:45:07.523 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:05:30.311 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:05:30.314 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:05:30.315 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:05:30.315 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:05:30.323 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:22:02.892 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:22:02.894 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:22:02.895 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:22:02.895 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 16:22:02.903 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:10.757 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:10.762 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:10.764 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:10.765 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:10.771 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:05:38.495 [warning] <0.5.0> lager_error_logger_h dropped 60 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:05:38.496 [error] <0.486.0> CRASH REPORT Process <0.486.0> with 0 neighbours crashed with reason: bad argument in call to erlang:binary_to_list(undefined) in cloudproxy_http_server:dispatch/1 line 41
+2018-04-20 17:06:33.023 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:06:33.034 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:06:33.034 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:06:33.034 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:06:33.051 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:07:53.892 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:07:53.902 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:07:53.902 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:07:53.902 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:07:53.923 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:30.774 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:30.780 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:30.780 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:30.781 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:30.797 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:53.071 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:53.074 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:53.075 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:53.075 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:09:53.083 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:10:54.658 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:10:54.684 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:10:54.684 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:10:54.684 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:10:54.696 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:17:14.623 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:17:14.625 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:17:14.627 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:17:14.627 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:17:14.635 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:18:54.731 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:18:54.731 [error] <0.1063.0> CRASH REPORT Process <0.1063.0> with 0 neighbours crashed with reason: no match of right hand value ["middleware"] in cloudproxy_http_server:dispatch/1 line 20
+2018-04-20 17:18:58.167 [error] <0.1094.0> CRASH REPORT Process <0.1094.0> with 0 neighbours crashed with reason: no match of right hand value ["middleware"] in cloudproxy_http_server:dispatch/1 line 20
+2018-04-20 17:19:33.554 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:19:33.557 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:19:33.558 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:19:33.558 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:19:33.566 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:02.744 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:02.747 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:02.748 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:02.748 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:02.756 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:20:18.020 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:20:18.020 [error] <0.390.0> CRASH REPORT Process <0.390.0> with 0 neighbours crashed with reason: no match of right hand value ["middleware"] in cloudproxy_http_server:dispatch/1 line 20
+2018-04-20 17:21:58.300 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:21:58.302 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:21:58.303 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:21:58.304 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:21:58.311 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:22:08.605 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:22:08.605 [error] <0.358.0> CRASH REPORT Process <0.358.0> with 0 neighbours crashed with reason: no match of right hand value ["middleware"] in cloudproxy_http_server:dispatch/1 line 20
+2018-04-20 17:27:05.673 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:27:05.675 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:27:05.677 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:27:05.677 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:27:05.684 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:45:37.629 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:45:37.632 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:45:37.633 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:45:37.633 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:45:37.641 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:29.349 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:29.351 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:29.353 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:29.353 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:29.360 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:54:38.900 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:54:38.900 [error] <0.342.0> CRASH REPORT Process <0.342.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 29
+2018-04-20 17:55:45.857 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:55:45.860 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:55:45.861 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:55:45.861 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:55:45.869 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:55:55.541 [warning] <0.5.0> lager_error_logger_h dropped 60 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:55:55.541 [error] <0.341.0> CRASH REPORT Process <0.341.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 28
+2018-04-20 17:57:17.919 [info] <0.6.0> Application lager started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:57:17.921 [info] <0.6.0> Application ranch started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:57:17.922 [info] <0.6.0> Application xmerl started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:57:17.923 [info] <0.6.0> Application mochiweb started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:57:17.930 [info] <0.6.0> Application rfc4627_jsonrpc started on node 'cloudproxy@127.0.0.1'
+2018-04-20 17:57:32.331 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-20 17:57:32.331 [error] <0.390.0> CRASH REPORT Process <0.390.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 28
+2018-04-20 18:06:07.116 [error] <0.4507.0> CRASH REPORT Process <0.4507.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 28
+2018-04-20 18:06:09.949 [error] <0.4524.0> CRASH REPORT Process <0.4524.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 28
+2018-04-23 09:59:15.246 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 09:59:15.252 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 09:59:15.253 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 09:59:15.253 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 09:59:15.260 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:00:08.940 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:00:08.942 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:00:08.943 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:00:08.943 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:00:08.951 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:00:09.014 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 10:00:09.015 [error] <0.162.0> CRASH REPORT Process <0.162.0> with 0 neighbours exited with reason: no match of right hand value {error,{{'EXIT',{undef,[{connector_event_ipc_login_log,add_handler,[],[]},{cloudproxy_event_server,add_handler,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,28}]},{cloudproxy_event_server,start_link,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,23}]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,handle_start_child,2,[{file,"super..."},...]},...]}},...}} in app_util:start_child/2 line 39 in application_master:init/4 line 134
+2018-04-23 10:00:09.015 [info] <0.6.0> Application cloudproxy exited with reason: no match of right hand value {error,{{'EXIT',{undef,[{connector_event_ipc_login_log,add_handler,[],[]},{cloudproxy_event_server,add_handler,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,28}]},{cloudproxy_event_server,start_link,0,[{file,"/home/GIHO_Lee/Chen/cloudproxy/_build/default/lib/cloudproxy/src/cloudproxy_event_server.erl"},{line,23}]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,handle_start_child,2,[{file,"super..."},...]},...]}},...}} in app_util:start_child/2 line 39
+2018-04-23 10:00:09.015 [info] <0.6.0> Application rfc4627_jsonrpc exited with reason: stopped
+2018-04-23 10:00:53.389 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:00:53.391 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:00:53.392 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:00:53.393 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:00:53.400 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:08:32.315 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:08:32.322 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:08:32.322 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:08:32.322 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:08:32.330 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:14:02.487 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:14:02.489 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:14:02.490 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:14:02.491 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:14:02.498 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:15:13.743 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:15:13.745 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:15:13.746 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:15:13.747 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:15:13.754 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:16:40.163 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:16:40.166 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:16:40.167 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:16:40.167 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:16:40.175 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:41:13.759 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:41:13.762 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:41:13.763 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:41:13.763 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:41:13.771 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:42:29.576 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:42:29.578 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:42:29.580 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:42:29.580 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:42:29.588 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:51:18.625 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:51:18.627 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:51:18.629 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:51:18.629 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:51:18.636 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:56:57.254 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:56:57.257 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:56:57.258 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:56:57.258 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:56:57.266 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:57:28.798 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 10:57:28.800 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 10:57:28.801 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 10:57:28.801 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 10:57:28.809 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 10:57:37.699 [warning] <0.5.0> lager_error_logger_h dropped 59 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 10:57:37.699 [error] <0.290.0> gen_event cloudproxy_event_ipc_log installed in cloudproxy_event_server terminated with reason: call to undefined function log_util:get_gateway_log_file/1 from cloudproxy_event_ipc_log:handle_event/2 line 50
+2018-04-23 11:02:04.729 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:02:04.732 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:02:04.733 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:02:04.733 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:02:04.741 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:02:12.611 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 11:02:12.612 [error] <0.290.0> gen_event cloudproxy_event_ipc_log installed in cloudproxy_event_server terminated with reason: call to undefined function help:datetime_string/1 from log_util:gen_content/4 line 36
+2018-04-23 11:09:46.010 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:09:46.013 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:09:46.014 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:09:46.014 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:09:46.022 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:18:38.751 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:18:38.759 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:18:38.759 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:18:38.759 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:18:38.769 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:26:29.728 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:26:29.730 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:26:29.732 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:26:29.732 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:26:29.743 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:36:13.143 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:36:13.146 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:36:13.147 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:36:13.147 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:36:13.155 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:44:40.589 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:44:40.592 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:44:40.593 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:44:40.593 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:44:40.601 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:48:57.981 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:48:57.985 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:48:57.987 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:48:57.987 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:48:57.996 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 11:54:49.859 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 11:54:49.870 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 11:54:49.870 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 11:54:49.870 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 11:54:49.890 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 13:57:11.898 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 13:57:11.901 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 13:57:11.902 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 13:57:11.903 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 13:57:11.931 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 13:57:12.008 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 13:57:12.009 [info] <0.6.0> Application cloudproxy started on node nonode@nohost
+2018-04-23 14:08:19.685 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:08:19.687 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:08:19.689 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:08:19.689 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:08:19.697 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 14:15:45.655 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:15:45.658 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:15:45.659 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:15:45.659 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:15:45.675 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 14:20:38.162 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:20:38.164 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:20:38.166 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:20:38.166 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:20:38.173 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 14:28:06.441 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:28:06.443 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:28:06.445 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:28:06.445 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:28:06.453 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 14:31:16.646 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:31:16.652 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:31:16.652 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:31:16.652 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:31:16.669 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 14:37:12.393 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 14:37:12.396 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 14:37:12.397 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 14:37:12.397 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 14:37:12.405 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:05:41.879 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:05:41.889 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:05:41.891 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:05:41.891 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:05:41.909 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:22:36.804 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:22:36.806 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:22:36.807 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:22:36.807 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:22:36.815 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:22:55.851 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 15:22:55.851 [error] <0.422.0> CRASH REPORT Process <0.422.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 33
+2018-04-23 15:45:24.851 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:45:24.853 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:45:24.854 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:45:24.854 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:45:24.862 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:48:01.274 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:48:01.276 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:48:01.277 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:48:01.278 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:48:01.285 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:49:07.743 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:49:07.745 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:49:07.747 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:49:07.747 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:49:07.755 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 15:53:03.833 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 15:53:03.836 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 15:53:03.837 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 15:53:03.837 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 15:53:03.845 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:01:00.935 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:01:00.942 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:01:00.942 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:01:00.942 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:01:00.950 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:01:01.019 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:01:01.020 [info] <0.6.0> Application cloudproxy started on node nonode@nohost
+2018-04-23 16:09:37.320 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:09:37.322 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:09:37.323 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:09:37.323 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:09:37.331 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:09:48.173 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:09:48.173 [error] <0.358.0> CRASH REPORT Process <0.358.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 35
+2018-04-23 16:21:51.230 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:21:51.232 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:21:51.233 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:21:51.234 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:21:51.241 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:22:02.233 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:22:02.233 [error] <0.358.0> CRASH REPORT Process <0.358.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in help_handle:parse_list/1 line 28
+2018-04-23 16:25:22.638 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:25:22.641 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:25:22.642 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:25:22.642 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:25:22.649 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:25:32.952 [warning] <0.5.0> lager_error_logger_h dropped 64 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:25:32.952 [error] <0.358.0> CRASH REPORT Process <0.358.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 37
+2018-04-23 16:25:37.477 [error] <0.391.0> CRASH REPORT Process <0.391.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in cloudproxy_http_server:dispatch/1 line 37
+2018-04-23 16:26:11.435 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:26:11.442 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:26:11.443 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:26:11.443 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:26:11.454 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:28:40.169 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:28:40.172 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:28:40.173 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:28:40.173 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:28:40.198 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:39:04.469 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:39:04.475 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:39:04.475 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:39:04.475 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:39:04.483 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:39:10.949 [warning] <0.5.0> lager_error_logger_h dropped 14 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:39:10.949 [error] <0.326.0> CRASH REPORT Process <0.326.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in help_handle:parse_list/1 line 28
+2018-04-23 16:40:07.935 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:40:07.951 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:40:07.951 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:40:07.952 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:40:07.960 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:40:08.002 [warning] <0.5.0> lager_error_logger_h dropped 63 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:40:08.036 [info] <0.6.0> Application cloudproxy started on node nonode@nohost
+2018-04-23 16:40:14.328 [error] <0.326.0> CRASH REPORT Process <0.326.0> with 0 neighbours crashed with reason: no match of right hand value {error,syntax_error} in help_handle:parse_list/1 line 28
+2018-04-23 16:41:48.258 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:41:48.266 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:41:48.266 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:41:48.266 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:41:48.277 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:41:54.547 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:41:54.547 [error] <0.326.0> CRASH REPORT Process <0.326.0> with 0 neighbours crashed with reason: bad argument in jsx_decoder:value/4 line 234
+2018-04-23 16:42:32.101 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 16:42:32.108 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 16:42:32.108 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 16:42:32.109 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 16:42:32.123 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 16:43:00.843 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 16:43:00.843 [error] <0.503.0> CRASH REPORT Process <0.503.0> with 0 neighbours crashed with reason: bad argument in jsx_decoder:value/4 line 234
+2018-04-23 17:16:18.178 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 17:16:18.181 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 17:16:18.182 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 17:16:18.182 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 17:16:18.190 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 17:27:49.240 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 17:27:49.242 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 17:27:49.244 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 17:27:49.244 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 17:27:49.251 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 17:43:00.530 [warning] <0.5.0> lager_error_logger_h dropped 13 messages in the last second that exceeded the limit of 50 messages/sec
+2018-04-23 17:43:00.530 [error] <0.7582.0> CRASH REPORT Process <0.7582.0> with 0 neighbours crashed with reason: no match of right hand value [] in cloudproxy_http_server:dispatch/1 line 20
+2018-04-23 18:02:48.418 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 18:02:48.425 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 18:02:48.425 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 18:02:48.426 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 18:02:48.436 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-23 18:58:44.129 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-23 18:58:44.131 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-23 18:58:44.132 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-23 18:58:44.133 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-23 18:58:44.140 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-24 09:04:46.501 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-24 09:04:46.509 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-24 09:04:46.509 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-24 09:04:46.509 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-24 09:04:46.519 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
+2018-04-24 09:27:07.454 [info] <0.6.0> Application lager started on node nonode@nohost
+2018-04-24 09:27:07.456 [info] <0.6.0> Application ranch started on node nonode@nohost
+2018-04-24 09:27:07.458 [info] <0.6.0> Application xmerl started on node nonode@nohost
+2018-04-24 09:27:07.458 [info] <0.6.0> Application mochiweb started on node nonode@nohost
+2018-04-24 09:27:07.466 [info] <0.6.0> Application rfc4627_jsonrpc started on node nonode@nohost
